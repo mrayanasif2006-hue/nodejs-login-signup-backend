@@ -1,0 +1,20 @@
+{
+  "applications": [
+    {
+      "name": "nodejs",
+      "id": "1",
+      "source": "app.js",
+      "software": true,
+      "appliedDate": "2026-07-01",
+      "status": "Applied"
+    },
+    {
+      "name": "React",
+      "id": "2",
+      "source": "index.js",
+      "software": true,
+      "appliedDate": "2026-07-02",
+      "status": "Applied"
+    }
+  ]
+}
